@@ -1,0 +1,8 @@
+{
+  "type": "content",
+  "modid": "biggercrock",
+  "name": "Bigger Crock Mod",
+  "description": "Увеличивает объем порций в горшочках с 4 до 6 порций.",
+  "authors": ["Egil_Raud"],
+  "version": "1.0.0",
+}
