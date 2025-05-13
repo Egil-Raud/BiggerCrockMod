@@ -1,8 +1,8 @@
 {
-  "type": "code",
-  "modid": "crockmod",
-  "name": "Crock Mod",
-  "description": "Увеличивает объем порций в горшочках с 4 до 6.",
-  "authors": ["Egil_Raud"],
-  "version": "1.0.0",
+	"authors": [ "Egil_Raud" ],
+	"description": "Увеличивает объем порций в горшочках с 4 до 6.",
+	"modid": "crockmod",
+	"name": "Crock Mod",
+	"type": "code",
+	"version": "1.0.0"
 }
